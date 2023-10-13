@@ -11,3 +11,6 @@ def multiply(a, b):
 def divide_free(a, b):
   return a/b
 # modify
+
+def say_hello():
+  print("hello")
